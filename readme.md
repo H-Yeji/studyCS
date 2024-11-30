@@ -1,6 +1,4 @@
-# 🍀My cs study
-
-## 📚Table of Contents
+### 📚Table of Contents
 
 - [🛜 Computer Network](https://github.com/ddoddii/Computer-Science-Study/blob/main/network/network.md)
 - [💾 Database](https://github.com/ddoddii/Computer-Science-Study/blob/main/database/database.md)
