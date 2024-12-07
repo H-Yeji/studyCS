@@ -1,5 +1,5 @@
 ### 🌳각 답변은 면접을 위한 답변이므로 상세 내용은 노션 확인 🌳
-https://www.notion.so/14ba7996bcdf803d9889f6ea0bfcc07d
+https://www.notion.so/CS-155a7996bcdf802eb5eccc56e8373e9a
 
 <hr>
 
